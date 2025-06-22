@@ -1,10 +1,4 @@
-+++
-title = 'Java İle Tc Kimlik No Olusturma'
-date = 2024-03-29T16:11:05+03:00
-draft = false
-categories = ['Blog', 'Örnek Kodlar']
-tags = ['java', 'tc no oluşturma', 'tc kimlik no oluşturma kodu', 'java ile tc oluşturma']
-+++
+# Java İle Tc Kimlik No Olusturma
 
 Bu JAVA kodu, Türkiye Cumhuriyeti Kimlik Numarası'nı (TC Kimlik No) oluşturmak için resmi [TC kimlik no üretme algoritmasını](https://tc-no.com/tc-kimlik-numarasi-algoritmasi/) kullanır.
 

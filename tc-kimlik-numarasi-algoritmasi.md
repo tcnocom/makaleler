@@ -1,12 +1,4 @@
-+++
-title = 'Tc Kimlik Numarası Algoritması'
-date = 2024-03-24T19:07:50+03:00
-draft = false
-author = ''
-categories = ['Blog']
-tags = ['Algoritma']
-+++
-
+# Tc Kimlik Numarası Algoritması
 
 **TC Kimlik Numarası: Kimlik Doğrulama Algoritması**
 

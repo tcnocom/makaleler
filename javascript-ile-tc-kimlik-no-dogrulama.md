@@ -1,10 +1,4 @@
-+++
-title = 'Javascript İle Tc Kimlik No Doğrulama'
-date = 2025-01-24T10:08:13+03:00
-draft = false
-categories = ['Blog', 'Örnek Kodlar']
-tags = ['javascript', 'tc no doğrulama', 'tc kimlik no doğrulama kodu', 'javascript ile tc doğrulama']
-+++
+# Javascript İle Tc Kimlik No Doğrulama
 
 Bu JavaScript kodu, Türkiye Cumhuriyeti Kimlik Numarası'nı (TC Kimlik No) doğrulamak için resmi [TC kimlik no algoritmasını](https://tc-no.com/tc-kimlik-numarasi-algoritmasi/) kullanır.
 

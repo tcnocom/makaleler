@@ -1,11 +1,4 @@
-+++
-title = 'Php İle Tc Kimlik No Olusturma'
-date = 2024-03-29T16:11:05+03:00
-draft = false
-categories = ['Blog', 'Örnek Kodlar']
-tags = ['php', 'tc no oluşturma', 'tc kimlik no oluşturma kodu', 'php ile tc oluşturma']
-+++
-
+# Php İle Tc Kimlik No Olusturma
 
 Bu PHP kodu, Türkiye Cumhuriyeti Kimlik Numarası'nı (TC Kimlik No) oluşturmak için resmi [TC kimlik no üretme algoritmasını](https://tc-no.com/tc-kimlik-numarasi-algoritmasi/) kullanır.
 

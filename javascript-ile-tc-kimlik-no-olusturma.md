@@ -1,10 +1,4 @@
-+++
-title = 'Javascript İle Tc Kimlik No Olusturma'
-date = 2024-04-02T10:00:05+03:00
-draft = false
-categories = ['Blog', 'Örnek Kodlar']
-tags = ['javascript', 'js', 'tc no oluşturma', 'tc kimlik no oluşturma kodu', 'js ile tc oluşturma', 'javascript ile tc oluşturma']
-+++
+# Javascript İle Tc Kimlik No Olusturma
 
 Bu Javascript kodu, Türkiye Cumhuriyeti Kimlik Numarası'nı (TC Kimlik No) oluşturmak için resmi [TC kimlik no üretme algoritmasını](https://tc-no.com/tc-kimlik-numarasi-algoritmasi/) kullanır.
 
