@@ -1,4 +1,4 @@
-# Go İle Tc Kimlik No Olusturma'
+# Go İle Tc Kimlik No Olusturma
 
 Bu go (golang) kodu, Türkiye Cumhuriyeti Kimlik Numarası'nı (TC Kimlik No) oluşturmak için resmi [TC kimlik no üretme algoritmasını](https://tc-no.com/tc-kimlik-numarasi-algoritmasi/) kullanır.
 
