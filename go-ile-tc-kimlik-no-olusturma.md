@@ -1,10 +1,4 @@
-+++
-title = 'Go İle Tc Kimlik No Olusturma'
-date = 2024-04-02T10:08:13+03:00
-draft = false
-categories = ['Blog', 'Örnek Kodlar']
-tags = ['go', 'golang', 'tc no oluşturma', 'tc kimlik no oluşturma kodu', 'go ile tc oluşturma', 'golang']
-+++
+# Go İle Tc Kimlik No Olusturma'
 
 Bu go (golang) kodu, Türkiye Cumhuriyeti Kimlik Numarası'nı (TC Kimlik No) oluşturmak için resmi [TC kimlik no üretme algoritmasını](https://tc-no.com/tc-kimlik-numarasi-algoritmasi/) kullanır.
 
